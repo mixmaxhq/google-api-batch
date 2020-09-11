@@ -56,7 +56,7 @@
   "dependencies": {
     "@mixmaxhq/environment": "^3.8.0",
     "@mixmaxhq/statsd-client": "^1.0.0",
-    "got": "^10.2.2"
+    "got": "^11.6.2"
   },
   "config": {
     "commitizen": {
